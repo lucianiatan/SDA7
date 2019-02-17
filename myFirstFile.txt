@@ -2,5 +2,8 @@ modificare executata in notepad
 
 a 2 a modificare executata in notepad
 
+<<<<<<< HEAD
 qwfsadvds
+=======
+>>>>>>> b6389f94c98f3d69ac6750530e9281fdc66a3a99
 
